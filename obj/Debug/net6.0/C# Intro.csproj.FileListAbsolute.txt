@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\C# Intro\bin\Debug\net6.0\C# Intro.exe
+C:\Users\USER\Documents\GitHub\C# Intro\bin\Debug\net6.0\C# Intro.deps.json
+C:\Users\USER\Documents\GitHub\C# Intro\bin\Debug\net6.0\C# Intro.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\C# Intro\bin\Debug\net6.0\C# Intro.dll
+C:\Users\USER\Documents\GitHub\C# Intro\bin\Debug\net6.0\ref\C# Intro.dll
+C:\Users\USER\Documents\GitHub\C# Intro\bin\Debug\net6.0\C# Intro.pdb
+C:\Users\USER\Documents\GitHub\C# Intro\obj\Debug\net6.0\C# Intro.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\C# Intro\obj\Debug\net6.0\C# Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\C# Intro\obj\Debug\net6.0\C# Intro.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\C# Intro\obj\Debug\net6.0\C# Intro.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\C# Intro\obj\Debug\net6.0\C# Intro.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\C# Intro\obj\Debug\net6.0\C# Intro.dll
+C:\Users\USER\Documents\GitHub\C# Intro\obj\Debug\net6.0\ref\C# Intro.dll
+C:\Users\USER\Documents\GitHub\C# Intro\obj\Debug\net6.0\C# Intro.pdb
+C:\Users\USER\Documents\GitHub\C# Intro\obj\Debug\net6.0\C# Intro.genruntimeconfig.cache
