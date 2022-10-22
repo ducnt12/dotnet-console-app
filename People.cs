@@ -17,4 +17,15 @@ class People
     {
         return this.height;
     }
+
+    //static Method overloading
+    public void add(int a, int b)
+    {
+        System.Console.WriteLine(a + b);
+    }
+
+    public void add(int a, int b, int c)
+    {
+        System.Console.WriteLine(a + b + c);
+    }
 }
