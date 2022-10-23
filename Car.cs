@@ -7,9 +7,13 @@ abstract class Vehicle
         System.Console.WriteLine("This vehicle is moving");
     }
 
-    public int GetSpeed()
+    public int MaxSpeed
     {
-        return this.maxSpeed;
+        get { return this.maxSpeed; }
+        set
+        {
+            this.maxSpeed = value > 500 ? 500 : value;
+        }
     }
 
     // abstract method
